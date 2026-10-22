@@ -11,7 +11,7 @@ Entender como melhorar a legibilidade, a manutenção e a robustez de um código
 | Arquivo | Descrição |
 |---|---|
 | `programa_notas.py` | Versão original, com lógica sequencial e sem validações de entrada. |
-| `programa_notas.py_novo` | Versão refatorada, organizada em funções e com tratamento de entradas inválidas. |
+| `programa_notas_refatorado.py` | Versão refatorada, organizada em funções e com tratamento de entradas inválidas. |
 
 ## Melhorias na refatoração
 
@@ -42,10 +42,10 @@ python programa_notas.py
 Versão refatorada:
 
 ```powershell
-python programa_notas.py_novo
+python programa_notas_refatorado.py
 ```
 
-> Nota: o arquivo refatorado está salvo com o nome `.py_novo`, preservado aqui como no exercício original. Ele pode ser executado explicitamente pelo interpretador Python.
+> A versão refatorada agora tem a extensão `.py`, adequada para um script Python.
 
 ## Aprendizados
 
